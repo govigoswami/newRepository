@@ -1,0 +1,12 @@
+#heading{
+    display: inline;
+}
+div{
+    margin-left: 35px;
+    display: inline;
+    padding: 30px;
+}
+div>span{
+    width: 25px;
+    margin: 35px;
+}
